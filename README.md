@@ -20,6 +20,9 @@ first - properties
 6. no 2 consecutive red, parent and child of red are black.
 7. new inserted node is red.
 8. heigh in between log n <= h <= 2log n
+   
+second insert and delete fixes 
+![Alt Text - description of the image](https://github.com/fancypandaa/redblacktree/blob/main/docs/redblacktree.jpeg)
 
 ## Installation
 for now...????
