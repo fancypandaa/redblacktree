@@ -9,15 +9,17 @@ Jo Fish memory, Red Black Tree Algorithm and implementation.
 - [References](#references)
 
 ## Documentation
+
 first - properties 
-      I- It's a height balanced binary search tree.
-      II- Every node is either red or black only.
-      III- Root of a tree is always black.
-      IV- NIL or NULL is also black.
-      V- Number of blacks on paths from root to leaf are same.
-      VI- no 2 consecutive red, parent and child of red are black.
-      VII- new inserted node is red.
-      VII- heigh in between log n <= h <= 2log n
+
+1. It's a height balanced binary search tree.
+2. Every node is either red or black only.
+3. Root of a tree is always black.
+4. NIL or NULL is also black.
+5. Number of blacks on paths from root to leaf are same.
+6. no 2 consecutive red, parent and child of red are black.
+7. new inserted node is red.
+8. heigh in between log n <= h <= 2log n
 
 ## Installation
 for now...????
